@@ -1,0 +1,3 @@
+Student Performance Analysis Dashboard.
+
+Welcome to my very first Power BI dashboard, which focuses on analyzing student performance across various dimensions such as gender, parental education, race/ethnicity, and test preparation course completion. The dashboard includes visualizations such as bar charts, pie charts, and stacked bar charts to compare average scores in math, reading, and writing. Key features include the distribution of students by gender, performance comparison by gender, parental education level, and the impact of test preparation courses. Interactive slicers allow users to filter data by different criteria for a more in-depth analysis. This project has been an exciting learning experience, and I look forward to feedback and suggestions!
